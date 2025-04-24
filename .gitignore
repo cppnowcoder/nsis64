@@ -1,3 +1,5 @@
+build/*
+.sconf_temp/*
 *nogit*
 
 /Contrib/NScurl/github/
